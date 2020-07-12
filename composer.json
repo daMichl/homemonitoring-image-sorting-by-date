@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/finder": "^5.1",
+        "symfony/filesystem": "^5.1",
+        "nesbot/carbon": "^2.36"
+    }
+}
